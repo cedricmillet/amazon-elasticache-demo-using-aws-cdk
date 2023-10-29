@@ -1,10 +1,8 @@
-# Welcome to your CDK Java project!
+# Amazon Elasticache Demo
 
-This is a blank project for CDK development with Java.
+Java AWS CDK adaptation of [aws-samples/deploy-amazon-elasticache-for-redis](https://aws.amazon.com/fr/blogs/database/deploy-amazon-elasticache-for-redis-using-aws-cdk/).
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
-
-It is a [Maven](https://maven.apache.org/) based project, so you can open this project with any Maven compatible Java IDE to build and run tests.
+![image](docs/high-level-design.png)
 
 ## Useful commands
 
@@ -15,4 +13,3 @@ It is a [Maven](https://maven.apache.org/) based project, so you can open this p
  * `cdk diff`        compare deployed stack with current state
  * `cdk docs`        open CDK documentation
 
-Enjoy!
